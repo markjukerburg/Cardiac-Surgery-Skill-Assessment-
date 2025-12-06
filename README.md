@@ -1,5 +1,5 @@
 # Cardiac-Surgery-Skill-Assessment
-Ai based cardiac surgery skill evaluation tool
+AI Based Cardiac Surgery Skill Evaluation Tool
 
 Cardiac Surgery Skill Assessment Using SAM v2 & Motion Analytics
 
